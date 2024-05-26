@@ -4,8 +4,13 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
-
+console.log("Hello, World!")
+console.log(2+2)
+console.log("Hello Nemo!") 
+console.log("She is a cat")
+console.log("Hello Nemo!" + " Hi Hi")
+console.log('Quoth the Raven "Nevermore"')
+console.log('...and then I said, "What is this, some kind of joke?"' + " Queue laughter")
 /*  
 Next, PLAY! 
 Modify your code on line 7 to try to accomplish the tasks listed below:
